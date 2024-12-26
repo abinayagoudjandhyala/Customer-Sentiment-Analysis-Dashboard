@@ -78,8 +78,3 @@ Customer-Sentiment-Analysis/
 
 
 
-
-## Contributing
-
-Contributions are welcome! Please feel free to open an issue or create a pull request with any suggestions.
-
