@@ -68,12 +68,13 @@ This repository contains a project focused on analyzing customer sentiment based
 
 ## Folder Structure
  
- customer sentiment
-├── customer sentiment.pbix
-├── Customer_Sentiment_Analysis_Data
-├── Dashboard1
-├── Dashboard2
-└── README.md
+Customer-Sentiment-Analysis/
+├── customer sentiment.pbix               # Power BI dashboard file
+├── Customer_Sentiment_Analysis_Data/     # Folder for raw or processed data files
+├── Dashboard1/                           # Folder containing screenshots of main dashboard
+├── Dashboard2/                           # Folder containing screenshots of root cause analysis
+└── README.md                             # Project documentation file
+
 
 
 ## Contributing
